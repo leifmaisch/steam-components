@@ -10,6 +10,16 @@ React components for Steam-style badges and levels.
 - **Steam Level** — Steam account level
 - **FACEIT Level** — FACEIT skill level
 
+## Install
+
+```bash
+pnpm dlx shadcn@latest add https://steam-components.pages.dev/registry/premier-badge.json
+pnpm dlx shadcn@latest add https://steam-components.pages.dev/registry/steam-level.json
+pnpm dlx shadcn@latest add https://steam-components.pages.dev/registry/faceit-level.json
+```
+
+Or with npm/bun/yarn: `npx shadcn@latest add <url>`
+
 ## Examples
 
 ```tsx
